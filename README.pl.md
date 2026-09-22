@@ -1,10 +1,10 @@
 # OpenInkPad
 
-[![Pobierz najnowszą wersję](https://img.shields.io/badge/Pobierz_najnowszą_wersję-Pobierz_ZIP-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hypnos-IT/open-ink-pad/releases/latest)
+[![Pobierz najnowszą wersję](https://img.shields.io/badge/Pobierz_najnowszą_wersję-Pobierz_ZIP-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hypnos-IT/OpenInkPad/releases/latest)
 
 [![Licencja: EUPL 1.2](https://img.shields.io/badge/Licencja-EUPL%201.2-blue.svg)](LICENSE)
 [![Python: 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![Wersja](https://img.shields.io/github/v/release/Hypnos-IT/open-ink-pad?color=blue&label=Najnowsza%20wersja)](https://github.com/Hypnos-IT/open-ink-pad/releases/latest)
+[![Wersja](https://img.shields.io/github/v/release/Hypnos-IT/OpenInkPad?color=blue&label=Najnowsza%20wersja)](https://github.com/Hypnos-IT/OpenInkPad/releases/latest)
 
 [English version](README.md)
 
