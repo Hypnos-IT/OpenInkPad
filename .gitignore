@@ -1,0 +1,17 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# EEPROM dumps created during resets
+eeprom_backup_*.txt
+*.bin
+
+# Release packages / archives
+*.zip
+*.tar.gz
+.vscode/
+*.code-workspace
+.idea/
+Thumbs.db
+Desktop.ini
