@@ -4,7 +4,7 @@
 
 [![License: EUPL 1.2](https://img.shields.io/badge/License-EUPL%201.2-blue.svg)](LICENSE)
 [![Python: 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![Latest Release](https://img.shields.io/github/v/release/Hypnos-IT/open-ink-pad?color=blue&label=Latest%20Release)](https://github.com/Hypnos-IT/OpenInkPad/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/Hypnos-IT/OpenInkPad?color=blue&label=Latest%20Release)](https://github.com/Hypnos-IT/OpenInkPad/releases/latest)
 
 [Wersja polska (Polish version)](README.pl.md)
 
