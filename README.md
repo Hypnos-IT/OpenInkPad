@@ -24,10 +24,12 @@ Printers should not stop working just because a software counter tripped, especi
 
 ---
 
-## Support me
+## Support the project
+
+If this tool saved your printer, spared you from buying a reset key, or helps you fix customer devices at work, feel free to buy me a coffee:
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Hypnos-IT)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hypnosit)
+[![Ko-fi](https://img.shields.io/badge/Buy_me_a_coffee_on_Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hypnosit)
 
 ---
 

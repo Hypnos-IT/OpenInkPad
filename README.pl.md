@@ -24,10 +24,12 @@ Drukarki nie powinny stawać się bezużyteczne z powodu zwykłego licznika w pa
 
 ---
 
-## Support me
+## Wesprzyj projekt
+ 
+Jeśli ten program uratował Twoją drukarkę, zaoszczędził Ci zakupu klucza resetującego lub pomaga Ci w naprawie sprzętu klientów w pracy, możesz postawić mi kawę:
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Hypnos-IT)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hypnosit)
+[![Ko-fi](https://img.shields.io/badge/Postaw_kawę_na_Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hypnosit)
 
 ---
 
